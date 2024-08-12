@@ -10,9 +10,9 @@ Este proyecto muestra cómo configurar una ventana de juego básica, definir un 
 
 Para ejecutar este proyecto, necesitarás tener Python y `pygame` instalados. Puedes instalar `pygame` utilizando `pip`:
 
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 ```bash
 pip install pygame
 
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
